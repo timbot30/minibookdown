@@ -1,4 +1,4 @@
 create-your-open-textbook
 introduction
-the-library-website
+library-website
 integrated-library-system
